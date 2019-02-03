@@ -19,6 +19,7 @@ We set up the entire program on the Google cloud platform so the app is always r
 Example of error feedback to help debug.
 <img src="./img/test5.jpg" height=750/> 
 <img src="./img/test6.jpg" width=750/> 
+<img src="./img/test7.jpg" height=750/>
 
 ### Future Direction
 -Expand the possible code to more than just C. First steps would probably be Python and Java, which are among the most popular programming languages today.
