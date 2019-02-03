@@ -9,7 +9,6 @@ sys.setdefaultencoding('utf8')
 
 DOWNLOAD_DIRECTORY = '/home/alexwang3150'
 app = Flask(__name__)
-
 @app.route("/sms", methods=['GET', 'POST'])
 def sms_reply():
     """Respond to incoming with a simple text message."""
@@ -22,7 +21,7 @@ def sms_reply():
            image_url = request.values['MediaUrl0']
            f.write(requests.get(image_url).content)
        
-        subprocess.call(['/home/joheen_c/dothething.sh'])
+        subprocess.call(['/home/joheen_c/backend.sh'])
         textout = "e"
         output = open('/home/joheen_c/error.txt', 'r')
         textout = output.read()
