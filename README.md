@@ -32,3 +32,7 @@ Google Cloud (Optical Character Recogniton and Compute Engine), Twilio API, Pyth
 
 * Look at ways to improve the accuracy of the machine learning text to code algorithm. Currently, we've coded some basic algorithms that correct simple compiler mistakes (missing semicolons for example). But the Google Cloud OCR tool is trained on English grammar and vocabulary, which is less accurate than training a model on code from the ground up. There are also a number of [research papers](https://arxiv.org/pdf/1801.10467.pdf) that investigate the user of deep learning to automatically fix syntax errors in code.
 
+## Thank You
+We'd like to thank the sponsors of DevFest 2019 for their products and support during this hackathon. Specifically, we'd like to thank Google for providing us hackers with $50 Cloud Platform vouchers and Twilio for providing a free upgrade to their premium plan.
+
+
