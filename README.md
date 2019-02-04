@@ -20,9 +20,7 @@ Google Cloud (Optical Character Recogniton and Compute Engine), Twilio API, Pyth
 <img src="./img/test1.jpg" height=700/> <img src="./img/test2.jpg" height=700/> 
 <img src="./img/test3.jpg" height=700/> <img src="./img/test4.jpg" height=700/> 
 Example of error feedback to help debug.
-<img src="./img/test5.jpg" height=700/> 
-<img src="./img/test6.jpg" width=700/> 
-<img src="./img/test7.jpg" height=700/>
+<img src="./img/test5.jpg" height=700/> <img src="./img/test6.jpg" height=700/> 
 
 ### Future Visions
 * Expand the possible code to more than just C. First steps would probably be Python and Java, which are among the most popular programming languages today.
