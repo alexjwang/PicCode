@@ -1,8 +1,8 @@
 # PicCode
 
-Run handwritten code, straight from your phone.
+Run handwritten code, straight from your phone. 2nd Prize Overall at DevFest 2019, Columbia University's annual hackathon.
 
-Created at DevFest 2019 at Columbia University by Alexander Wang, Ursula Ott, Joheen Chakraborty, and Michael Jan.
+Created by Alexander Wang, Ursula Ott, Joheen Chakraborty, and Michael Jan.
 
 ## Project Overview
 ### Motivation
