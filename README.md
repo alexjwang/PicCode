@@ -1,6 +1,7 @@
 # PicCode
 
 Run handwritten code, straight from your phone.
+
 Created at DevFest 2019 at Columbia University by Alexander Wang, Ursula Ott, Joheen Chakraborty, and Michael Jan.
 
 ## Project Overview
