@@ -1,6 +1,6 @@
 # PicCode
 
-This project was created at DevFest 2019 at Columbia University by Alexander Wang, Ursula Ott, Joheen Chakraborty, and Michael Jan.
+Created at DevFest 2019 at Columbia University by Alexander Wang, Ursula Ott, Joheen Chakraborty, and Michael Jan.
 
 ## Project Overview
 ### Motivation
