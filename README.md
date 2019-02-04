@@ -2,7 +2,7 @@
 
 This project was created at DevFest 2019 at Columbia University by Alexander Wang, Ursula Ott, Joheen Chakraborty, and Michael Jan.
 
-### Project Overview
+## Project Overview
 #### Motivation
 Whiteboarding, coding by hand, and reading code in the form of physical text (via textbook or otherwise) are common among programmers and CS students - but it is rather inconvenient when one wishes to compile and test such code. Thus, an easy method of converting such "physical" code into machine-parsable and runnable "real" code would be very helpful.
 
