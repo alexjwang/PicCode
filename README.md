@@ -20,7 +20,7 @@ Google Cloud (Optical Character Recogniton and Compute Engine), Twilio API, Pyth
 <img src="./img/test1.jpg" height=700/> <img src="./img/test2.jpg" height=700/> 
 <img src="./img/test3.jpg" height=700/> <img src="./img/test4.jpg" height=700/> 
 
-### Example of error feedback to help debug.
+#### Error feedback to help debug:
 <img src="./img/test5.jpg" height=300/> <img src="./img/test6.jpg" width=700/> 
 
 ### Future Visions
