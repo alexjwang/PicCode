@@ -23,7 +23,7 @@ Google Cloud (Optical Character Recogniton and Compute Engine), Twilio API, Pyth
 #### Error feedback to help debug:
 <img src="./img/test5.jpg" height=300/> <img src="./img/test6.jpg" width=700/> 
 
-### Future Visions
+## Future Visions
 * Expand the possible code to more than just C. First steps would probably be Python and Java, which are among the most popular programming languages today.
 
 * Look at ways to improve the accuracy of the machine learning text to code algorithm. Currently, we've coded some basic algorithms that correct simple compiler mistakes (missing semicolons for example). But the Google Cloud OCR tool is trained on English grammar and vocabulary, which is less accurate than training a model on code from the ground up. There are also a number of research papers (ex. https://arxiv.org/pdf/1801.10467.pdf) that use deep learning text investigating to correct code for syntax errors after the fact, and, given a dataset of programs, we'd be able to  better train our own text recognition machine learning model.
