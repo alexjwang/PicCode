@@ -4,7 +4,7 @@ from flask import Flask, request, redirect
 from twilio.twiml.messaging_response import MessagingResponse
 import subprocess
 
-reload(sys)
+reload(sys) 
 sys.setdefaultencoding('utf8')
 
 DOWNLOAD_DIRECTORY = '/home/alexwang3150'
